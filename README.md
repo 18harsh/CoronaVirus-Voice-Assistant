@@ -3,12 +3,13 @@ A python voice assistant that you can ask corona-virus related questions
 
 <b>like</b>:
 
-How many cases are there in India
+How many cases are there in India?
 
-How many people died in Japan
+How many people died in Japan?
 
-active cases in Mainland China
+active cases in Mainland China?
 
+etc
 
 # Requirements:
 BeautifulSoup
